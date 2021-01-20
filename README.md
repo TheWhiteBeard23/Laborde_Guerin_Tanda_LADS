@@ -10,5 +10,5 @@ Le premier "Guerin_Laborde_colab.ipynb" est le code comportant des illustrations
 
 ### Sequence Classification
 
-Ce dossier contient tous les éléments nécéssaires pour l'exécution du fichier ipynb. Le code "Rendu_DEFIIA_GUERIN_LABORDE.ipynb" est un code destiné au defi-ia mise en place dans la matière PDM(Projet données massives) qui porte sur de la classification de phrases. L'objectif de ce défi était de prédire le métier correspondant à une description. Plusieurs méthodes de prédiction sont utilisées dont BERT et ROBERTA qui donnent les meilleurs résultats.
+Ce dossier contient tous les éléments nécessaires pour l'exécution du fichier ipynb. Le code "Rendu_DEFIIA_GUERIN_LABORDE.ipynb" est un code destiné au defi-ia mis en place dans la matière PDM(Projet données massives) qui porte sur de la classification de phrases. L'objectif de ce défi était de prédire le métier correspondant à une description. Plusieurs méthodes de prédiction sont utilisées dont BERT et ROBERTA qui donnent les meilleurs résultats.
 
